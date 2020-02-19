@@ -1,5 +1,3 @@
 # Test
-<<<<<<< HEAD
 Changepond
-=======
->>>>>>> development
+
